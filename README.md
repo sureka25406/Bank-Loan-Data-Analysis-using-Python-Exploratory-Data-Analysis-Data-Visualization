@@ -1,4 +1,7 @@
-# Bank-Loan-Data-Analysis-using-Python-Exploratory-Data-Analysis-Data-Visualization
+# Bank-Loan-Data-Analysis-using-Python
+
+
+Exploratory-Data-Analysis-Data-Visualization
 
 # Bank Loan Data Analysis using Python
 
